@@ -1,13 +1,13 @@
 def division(12, 6)
- 
+
 end
 
 def assign_variable(value)
-  
+
 end
 
 def argue
-  
+
 end
 
 def greeting
