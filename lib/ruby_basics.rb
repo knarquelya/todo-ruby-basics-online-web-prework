@@ -6,8 +6,8 @@ def assign_variable("Bob")
   puts "Bob"
 end
 
-def argue
-
+def argue(num1)
+  puts 13
 end
 
 def greeting
