@@ -10,8 +10,8 @@ def argue(num)
   puts 13
 end
 
-def greeting
-
+def greeting(name = "Knarquelya")
+ puts "Hello Knarquelya"
 end
 
 def return_a_value
