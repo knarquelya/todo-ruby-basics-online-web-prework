@@ -14,9 +14,8 @@ def greeting(name, language = "Ruby Programmer")
  puts "Hello #{name}, the #{language}!"
 end
 
-def return_a_value
-  puts "Knarquelya"
-  "Knarquelya"
+def return_a_value(name)
+  puts "Nice"
 end
 
 def last_evaluated_value
